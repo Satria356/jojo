@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6283811034750@s.whatsapp.net"],
+  "ownerName": ["FHR"],
+  "botName": "FHR-MD",
+  "sessionName": "session",
+  "pathimg": "./media/Jojo.jpg",
+  "gamewaktu": 90,
+  "limitCount": 40,
+  "gcount": {
+	"prem": 70,
+	"user": 30
+  }
+}
